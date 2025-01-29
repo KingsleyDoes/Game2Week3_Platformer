@@ -1,2 +1,3 @@
-2025/01/29-08:26:39.396 ec68 Creating DB C:/Users/jmjno/New folder/Game2Week3_Platformer/Platformer/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2025/01/29-08:26:39.411 ec68 Reusing MANIFEST C:/Users/jmjno/New folder/Game2Week3_Platformer/Platformer/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2025/01/29-09:31:13.329 21a0 Reusing MANIFEST C:/Users/jmjno/New folder/Game2Week3_Platformer/Platformer/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2025/01/29-09:31:13.331 21a0 Recovering log #3
+2025/01/29-09:31:13.333 21a0 Reusing old log C:/Users/jmjno/New folder/Game2Week3_Platformer/Platformer/Saved/webcache_4430\Local Storage\leveldb/000003.log 
