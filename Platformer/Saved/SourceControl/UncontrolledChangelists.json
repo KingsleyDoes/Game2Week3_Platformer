@@ -6,7 +6,10 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/jmjno/New folder/Game2Week3_Platformer/Platformer/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
-				"C:/Users/jmjno/New folder/Game2Week3_Platformer/Platformer/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/OD/YPSPM063O6XAJVKSDHY2JX.uasset"
+				"C:/Users/jmjno/New folder/Game2Week3_Platformer/Platformer/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/OD/YPSPM063O6XAJVKSDHY2JX.uasset",
+				"C:/Users/jmjno/New folder/Game2Week3_Platformer/Platformer/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/jmjno/New folder/Game2Week3_Platformer/Platformer/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/R2/TH06MNZQQ2FZBSMU11NVM7.uasset",
+				"C:/Users/jmjno/New folder/Game2Week3_Platformer/Platformer/Content/FirstPerson/Blueprints/BP_Lever.uasset"
 			]
 		}
 	]
